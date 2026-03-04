@@ -1,6 +1,6 @@
 # food-ordering-system
 
-###Group Members
+#Group Members
 - GODSON LOGAH(Group Leader) - 052441360080
 - MOHAMMED SUALA IBN MUSTAPHA - 052441360010
 - DONALD BAAH - 052441360157
