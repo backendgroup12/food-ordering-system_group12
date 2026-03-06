@@ -22,10 +22,10 @@ The application runs on a local server environment such as XAMPP or Apache. The 
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
-###Login Page
+### Login Page
 ![Login](screenshots/login.png)
 
-##Project Report
+## Project Report
 [Project Report](report/mid_semester_project_report.pdf)
 
 
